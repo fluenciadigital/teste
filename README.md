@@ -50,6 +50,12 @@ Identificação de produtos campeões e gargalos
 <br><br>
 
 
+📈 **Visuais**<br>
+![dashboard](imagens/dash_01.jpg) <br>
+![dashboard](imagens/dash_012.jpg)
+<br><br>
+
+
 🤝 **Sobre mim**<br>
 Olá! Sou [SEU NOME], em transição de carreira para a área de Dados.<br>
 Este projeto faz parte do meu portfólio e foi desenvolvido com foco em desafios reais do mercado.<br>
