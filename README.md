@@ -10,9 +10,8 @@ O objetivo é identificar padrões de comportamento, gargalos, oportunidades de 
 🧱 **Estrutura do Projeto**<br>
 📁 arquivos/        # Base de dados bruta em CSV <br>
 📁 scripts_sql/     # Scripts usados para limpeza, modelagem e análises <br>
-📁 relatorios/      # Briefing do projeto e Resumo estratégico com os principais achados<br>
-📄 dashboard.pbix   # Arquivo Power BI com o dashboard final<br>
-📄 README.md        # Este arquivo
+📁 relatorios/      # Briefing, Relatório Técnico e Resumo Estratégico com os principais achados<br>
+📁 power bi/        # Arquivo Power BI com o dashboard final
 <br><br>
 
 
@@ -36,8 +35,7 @@ Publicação dos arquivos para fácil acesso e avaliação técnica
 🛠️ **Ferramentas Utilizadas**<br>
 MySQL para estruturação e análise dos dados<br>
 Power BI Desktop para construção do dashboard interativo<br>
-Google Sheets / Excel para apoio na limpeza inicial e briefing<br>
-GitHub para versionamento e publicação do portfólio
+Google Sheets/Excel para apoio na limpeza inicial
 <br><br>
 
 
@@ -51,8 +49,9 @@ Identificação de produtos campeões e gargalos
 
 
 📈 **Visuais**<br>
-![dashboard](imagens/dash_01.jpg) <br>
-![dashboard](imagens/dash_012.jpg)
+![dashboard](imagens/dash01.jpg) <br>
+![dashboard](imagens/dash03.jpg) <br>
+![dashboard](imagens/dash02.jpg)
 <br><br>
 
 
